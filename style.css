@@ -84,7 +84,7 @@ ul li::before {
 }
 ul li.checked {
   color: #4e085f;
-  text-decoration: underline;
+  text-decoration: none;
 }
 ul li.checked::before {
   background-image: url(images/check\ icon.png);
